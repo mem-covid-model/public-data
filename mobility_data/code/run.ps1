@@ -1,7 +1,7 @@
 # Powershell wrapper for Python script
 
 # Make sure we're in the right directory
-Set-Location C:\Users\jesse\OneDrive\epicurve\memphis-covid-data\mobility_data\code
+Set-Location C:\Users\jesse\OneDrive\epicurve\public-data\mobility_data\code
 
 # Run python script
 python scrape.py
